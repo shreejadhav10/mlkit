@@ -14,7 +14,9 @@ Getting Started
 
 - [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
 - Then add the firebase ML Kit dependency 
+  ``` Java
   Com.google.firebase:firebase-ml-vision:16.0.0
+  ````
 - Add meta tab in the manifeast to download the dependency at the time fo installation
 
 ```Java

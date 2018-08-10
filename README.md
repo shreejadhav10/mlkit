@@ -57,8 +57,16 @@ Getting Started
 
   * Data Matrix (FORMAT_DATA_MATRIX)
 
-- Following types of barcode we can read 
-- [logo]: https://cdn-images-1.medium.com/max/2000/1*lSz7hMeCvisd_uD-WIqR5A.png
+- Following types of barcode we can read
+  * TYPE_CALENDAR_EVENT
+  * TYPE_CONTACT_INFO
+  * TYPE_DRIVER_LICENSE
+  * TYPE_EMAIL
+  * TYPE_GEO
+  * TYPE_PHONE
+  * TYPE_SMS
+  * TYPE_URL
+  * TYPE_WIFI
 
 
 

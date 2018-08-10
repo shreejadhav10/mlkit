@@ -16,7 +16,7 @@ Getting Started
 - [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
 - Then add the firebase ML Kit dependency 
   Com.google.firebase:firebase-ml-vision:16.0.0
-- Add meta tab in the manifeast for the 
+- Add meta tab in the manifeast to download the dependency at the time fo installation
 
 ```Java
 <application>
@@ -28,7 +28,33 @@ Getting Started
 </application>
 
 ```
-- Run the demo application on the device
+- Run the demo application on the device.
+- Supported barcode list
+  * Code 128 (FORMAT_CODE_128)
+
+  * Code 39 (FORMAT_CODE_39)
+
+  * Code 93 (FORMAT_CODE_93)
+
+  * Codabar (FORMAT_CODABAR)
+
+  * EAN-13 (FORMAT_EAN_13)
+
+  * EAN-8 (FORMAT_EAN_8)
+
+  * ITF (FORMAT_ITF)
+ 
+  * UPC-A (FORMAT_UPC_A)
+
+  * UPC-E (FORMAT_UPC_E)
+
+  * QR Code (FORMAT_QR_CODE)
+
+  * PDF417 (FORMAT_PDF417)
+
+  * Aztec (FORMAT_AZTEC)
+
+  * Data Matrix (FORMAT_DATA_MATRIX)
 
 
 

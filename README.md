@@ -57,6 +57,9 @@ Getting Started
 
   * Data Matrix (FORMAT_DATA_MATRIX)
 
+- Following types of barcode we can read 
+- [logo]: https://cdn-images-1.medium.com/max/2000/1*lSz7hMeCvisd_uD-WIqR5A.png
+
 
 
 

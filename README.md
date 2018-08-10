@@ -1,8 +1,7 @@
-ML Kit for Firebase Quickstart
+ML Kit for Barcode scanner
 ==============================
 
-The ML Kit for Firebase Android Quickstart app demonstrates how to use the
-various features of ML Kit to add machine learning to your application.
+ML kit offers barcode scanning feature which works on the cloud as well as on the device end. Please check following details for more information.
 
 Introduction
 ------------
